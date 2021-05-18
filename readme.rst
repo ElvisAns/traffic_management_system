@@ -10,14 +10,19 @@ Conventional Traffic light systems operate on a timing mechanism that changes th
 
 #Briefly, applying this system will help: on one side, the country to ensure that safety rules are observed, reduces traffic accident; on the other side it helps to smarten traffic management
 
-<a href ="/docs/pdf/proposal.pdf">Read the proposal</a>
+###########
+Attachment
+###########
 
-<a href ="/docs/pdf/proposal.pdf">Check out the project case study</a>
+-  `Web app demo <https://codeigniter.com/docs>`_
+-  `Web app download <https://codeigniter.com/docs>`_
+- : Get the project proposal : ` <https://github.com/bcit-ci/codeigniter3-translations>`_
+- : Read the full case study : ` <https://github.com/bcit-ci/codeigniter3-translations>`_
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
 #######
-DENO
+DEMO
 #######
 
 ###################
