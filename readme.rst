@@ -14,7 +14,6 @@ Conventional Traffic light systems operate on a timing mechanism that changes th
 Attachment
 ###########
 
--  `Web app demo <https://codeigniter.com/docs>`_
 -  `Web app download <https://codeigniter.com/docs>`_
 -  `Get the project proposal  </docs>`_
 -  `Read the full case study </docs>`_
@@ -25,6 +24,9 @@ ________________________________________________________________________________
 #######
 DEMO
 #######
+
+
+-  `Online Demo <https://codeigniter.com/docs>`_
 
 ###################
 What is CodeIgniter
