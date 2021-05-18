@@ -16,8 +16,8 @@ Attachment
 
 -  `Web app demo <https://codeigniter.com/docs>`_
 -  `Web app download <https://codeigniter.com/docs>`_
-- : Get the project proposal : ` <https://github.com/bcit-ci/codeigniter3-translations>`_
-- : Read the full case study : ` <https://github.com/bcit-ci/codeigniter3-translations>`_
+- : Get the project proposal : ` https://github.com/bcit-ci/codeigniter3-translations`_
+- : Read the full case study : ` https://github.com/bcit-ci/codeigniter3-translations`_
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
