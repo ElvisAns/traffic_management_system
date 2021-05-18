@@ -15,8 +15,8 @@ Attachment
 ###########
 
 -  `Web app download <https://codeigniter.com/docs>`_
--  `Get the project proposal  </docs>`_
--  `Read the full case study </docs>`_
+-  `Get the project proposal  </docs/proposal.pdf>`_
+-  `Read the full case study </docs/dissertation.pdf>`_
 
 
 _____________________________________________________________________________________________________________________________________________________________________________
