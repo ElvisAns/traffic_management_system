@@ -28,6 +28,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 			$values=array();
 
 			$values['avg_speed']= $this->db->select_avg('speed')->get('car_logs')->result_array()[0]['speed'];
+			$values['avg_speed'] = (int)$values['avg_speed'];
 
 			$values['car_count']= $this->db->where(array("date" => Date("d/m/Y")))->from('car_logs')->count_all_results();
 
